@@ -27,7 +27,7 @@ Query Interactive Brokers Gateway for stock quotes and options chains via comman
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/ib-options-cli.git
+git clone https://github.com/erix/ib-options-cli.git
 cd ib-options-cli
 
 # Create virtual environment
@@ -264,8 +264,8 @@ MIT License - see [LICENSE](LICENSE) file.
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/ib-options-cli/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/ib-options-cli/discussions)
+- **Issues:** [GitHub Issues](https://github.com/erix/ib-options-cli/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/erix/ib-options-cli/discussions)
 
 ## Credits
 
